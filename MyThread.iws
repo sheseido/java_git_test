@@ -1,79 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b6155a-ff9a-4b5f-8cf6-57d5f9786436" name="Default Changelist" comment="create">
-      <change afterPath="$PROJECT_DIR$/MyThread.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyThread.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aqs/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/AtomicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/FinalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/SyncDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/ThisEscape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/ThreadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/VolatileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo13/Container1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo13/Container2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo13/Container3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo13/Container4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo13/Container5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo14/Container1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo2/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo8/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo9/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent2/demo2/TLDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent2/demo3/saleoftickets/SaleOfTickets1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent2/demo3/saleoftickets/SaleOfTickets2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent2/demo3/saleoftickets/SaleOfTickets3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent2/demo3/saleoftickets/SaleOfTickets4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/layout/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/layout/JOLExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/layout/JOLExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nio/BioService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/threadpool/Demo5_ThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/threadpool/Demo8_CachedPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/aqs/test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/AtomicTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/AtomicTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/FinalTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/SyncDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/SyncDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/ThisEscape$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/ThisEscape$EscapeRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/ThisEscape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/ThreadExample$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/ThreadExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/VolatileTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/VolatileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo14/Container1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo2/Demo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo8/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo9/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent2/demo2/TLDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent2/demo3/saleoftickets/SaleOfTickets1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent2/demo3/saleoftickets/SaleOfTickets1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent2/demo3/saleoftickets/SaleOfTickets2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent2/demo3/saleoftickets/SaleOfTickets3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent2/demo3/saleoftickets/SaleOfTickets4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/layout/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/layout/JOLExample1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/layout/JOLExample2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/layout/JOLExample2$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/layout/JOLExample2$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/layout/JOLExample2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/threadpool/Demo5_ThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/threadpool/Demo8_CachedPool.class" afterDir="false" />
-    </list>
+    <list default="true" id="35b6155a-ff9a-4b5f-8cf6-57d5f9786436" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,12 +180,24 @@
       <workItem from="1573361039698" duration="598000" />
       <workItem from="1573464612362" duration="597000" />
       <workItem from="1573557723501" duration="364000" />
-      <workItem from="1573558139528" duration="253000" />
+      <workItem from="1573558139528" duration="528000" />
     </task>
+    <task id="LOCAL-00001" summary="create">
+      <created>1573558472459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573558472459</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create" />
+    <option name="LAST_COMMIT_MESSAGE" value="create" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
