@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35b6155a-ff9a-4b5f-8cf6-57d5f9786436" name="Default Changelist" comment="create">
+      <change afterPath="$PROJECT_DIR$/MyThread.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyThread.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aqs/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/AtomicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/FinalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/SyncDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/ThisEscape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/ThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tigger/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo13/Container1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo13/Container2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo13/Container3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo13/Container4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo13/Container5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo14/Container1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo2/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo8/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/demo9/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent2/demo2/TLDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent2/demo3/saleoftickets/SaleOfTickets1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent2/demo3/saleoftickets/SaleOfTickets2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent2/demo3/saleoftickets/SaleOfTickets3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent2/demo3/saleoftickets/SaleOfTickets4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/layout/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/layout/JOLExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/layout/JOLExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nio/BioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/threadpool/Demo5_ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/threadpool/Demo8_CachedPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aqs/test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/AtomicTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/AtomicTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/FinalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/SyncDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/SyncDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/ThisEscape$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/ThisEscape$EscapeRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/ThisEscape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/ThreadExample$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/ThreadExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/VolatileTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tigger/VolatileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo13/Container5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo14/Container1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo2/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo8/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/demo9/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent2/demo2/TLDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent2/demo3/saleoftickets/SaleOfTickets1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent2/demo3/saleoftickets/SaleOfTickets1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent2/demo3/saleoftickets/SaleOfTickets2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent2/demo3/saleoftickets/SaleOfTickets3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/concurrent2/demo3/saleoftickets/SaleOfTickets4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/layout/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/layout/JOLExample1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/layout/JOLExample2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/layout/JOLExample2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/layout/JOLExample2$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/layout/JOLExample2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/threadpool/Demo5_ThreadPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/threadpool/Demo8_CachedPool.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1Rh0PMaXNntpZsfa1ah3xXXIbVU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="layout" />
+      <recent name="concurrent.demo13" />
+      <recent name="concurrent.demo.saleoftickets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Container5">
+    <configuration name="Container5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.demo13.Container5" />
+      <module name="MyThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent.demo13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.demo8.Demo" />
+      <module name="MyThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent.demo8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo5_ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadpool.Demo5_ThreadPool" />
+      <module name="MyThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo8_CachedPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadpool.Demo8_CachedPool" />
+      <module name="MyThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aqs.test1" />
+      <module name="MyThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo5_ThreadPool" />
+      <item itemvalue="Application.Demo8_CachedPool" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.Container5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Container5" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Demo8_CachedPool" />
+        <item itemvalue="Application.Demo5_ThreadPool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35b6155a-ff9a-4b5f-8cf6-57d5f9786436" name="Default Changelist" comment="" />
+      <created>1570103994067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570103994067</updated>
+      <workItem from="1570104002148" duration="34000" />
+      <workItem from="1570104061384" duration="10000" />
+      <workItem from="1570104094907" duration="5074000" />
+      <workItem from="1570184398611" duration="1904000" />
+      <workItem from="1570199044970" duration="3166000" />
+      <workItem from="1570240090361" duration="2652000" />
+      <workItem from="1570352210797" duration="653000" />
+      <workItem from="1570352871463" duration="550000" />
+      <workItem from="1570370258902" duration="1770000" />
+      <workItem from="1570415727601" duration="3414000" />
+      <workItem from="1570583522659" duration="6238000" />
+      <workItem from="1570688076631" duration="617000" />
+      <workItem from="1570786035939" duration="1400000" />
+      <workItem from="1571882076203" duration="7524000" />
+      <workItem from="1571930929997" duration="1953000" />
+      <workItem from="1571971392988" duration="2383000" />
+      <workItem from="1572165230433" duration="2266000" />
+      <workItem from="1572230272601" duration="18478000" />
+      <workItem from="1572340583530" duration="2479000" />
+      <workItem from="1572490043009" duration="1614000" />
+      <workItem from="1572499135001" duration="843000" />
+      <workItem from="1572500022173" duration="38000" />
+      <workItem from="1572500164668" duration="9209000" />
+      <workItem from="1572585432888" duration="6655000" />
+      <workItem from="1572779854224" duration="630000" />
+      <workItem from="1572838199916" duration="8017000" />
+      <workItem from="1572947831657" duration="33000" />
+      <workItem from="1572947871533" duration="2000" />
+      <workItem from="1572947898275" duration="6149000" />
+      <workItem from="1573006363069" duration="1007000" />
+      <workItem from="1573285848964" duration="1012000" />
+      <workItem from="1573361039698" duration="598000" />
+      <workItem from="1573464612362" duration="597000" />
+      <workItem from="1573557723501" duration="364000" />
+      <workItem from="1573558139528" duration="253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tigger/ThreadExample.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/concurrent/demo13/Container2.java</url>
+          <line>19</line>
+          <properties class="concurrent.demo13.Container2" method="size">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyThread$Container1.ic" NAME="Container1 Coverage Results" MODIFIED="1572358941245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>concurrent.demo14.*</FILTER>
+    </SUITE>
+  </component>
+</project>
